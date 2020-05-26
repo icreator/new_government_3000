@@ -1,6 +1,6 @@
 # Почему не страшен новый закон «О цифровой валюте» или обновленное определение Цифровых валют. Часть 2
 
-источник в блокчейне: http://erachain.org:9047/index/blockexplorer.html?tx=1004442-1&lang=en
+источник в блокчейне: http://erachain.org:9047/index/blockexplorer.html?tx=1007429-1&lang=en
 
 В [предыдущей части](https://github.com/icreator/new_government_3000/blob/master/CryptoValuta-2020-05.md) мы разобрали семантику определения Цифровых валют, которое дано в новом законе.
 
