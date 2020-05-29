@@ -6,4 +6,6 @@
 
 Файлы формата .rtf нужно загрузить на компьютер и открыть в MS Word
 
-Предложения внутри закона: https://gitlab.com/d.ermolaev/zakon-2020-05-cfa/-/blob/master/zakon-CFA-2-2020-05.md
+Актуальный репозиторий тут:https://gitlab.com/erachain/zakon-2020-05-cfa
+
+просьба делать там все правки и предложения
